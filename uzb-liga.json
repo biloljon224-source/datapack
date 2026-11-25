@@ -1,0 +1,27 @@
+
+{
+  "LeagueData": [
+    {
+      "ID": 28,
+      "Name": "Uzbekistan Super League"
+    }
+  ],
+  "ClubData": [
+    { "ID": 1, "Name": "Paxtakor", "ShortName": "PAX" },
+    { "ID": 2, "Name": "Navbahor", "ShortName": "NAV" },
+    { "ID": 3, "Name": "Bunyodkor", "ShortName": "BUN" },
+    { "ID": 4, "Name": "Nasaf", "ShortName": "NSF" },
+    { "ID": 5, "Name": "Neftchi", "ShortName": "NEF" },
+    { "ID": 6, "Name": "AGMK", "ShortName": "AGM" },
+    { "ID": 7, "Name": "Sogdiana", "ShortName": "SOG" },
+    { "ID": 8, "Name": "Qizilqum", "ShortName": "QZM" },
+    { "ID": 9, "Name": "Andijon", "ShortName": "AND" },
+    { "ID": 10, "Name": "Buxoro", "ShortName": "BUX" },
+    { "ID": 11, "Name": "Dinamo Samarqand", "ShortName": "DNM" },
+    { "ID": 12, "Name": "Lokomotiv", "ShortName": "LOK" },
+    { "ID": 13, "Name": "Surxon", "ShortName": "SUR" },
+    { "ID": 14, "Name": "Xorazm", "ShortName": "XOR" },
+    { "ID": 15, "Name": "Qo'qon-1912", "ShortName": "QQN" },
+    { "ID": 16, "Name": "Aral", "ShortName": "ARL" }
+  ]
+}
